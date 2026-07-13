@@ -29,15 +29,18 @@ never committed to `main`.
 
 - **Cases, deaths and response categories:** MVE situation reports from the Institut National
   de Santé Publique (INSP) and the Institut National de Recherche Biomédicale (INRB),
-  Democratic Republic of the Congo.
+  Democratic Republic of the Congo — published at
+  [INRB-UMIE/BDBV2026-Data](https://github.com/INRB-UMIE/BDBV2026-Data).
 - **Population mobility** (importation model): [Flowminder
   Foundation](https://www.flowminder.org/resources/publications-reports/drc-reports-publications)
   estimates derived from Vodacom RDC call-detail records.
 - **Administrative boundaries:** the 519 DRC Ministry of Health health zones
   ([OCHA COD-AB DRC](https://data.humdata.org/dataset/cod-ab-cod), ADM3).
 
-The upstream data repository carries full metadata, citations and licences for every dataset
-used, including the vulnerability and context layers not listed above.
+The upstream data repository
+[INRB-UMIE/BDBV2026-Data](https://github.com/INRB-UMIE/BDBV2026-Data) carries full metadata,
+citations and licences for every dataset used, including the vulnerability and context layers
+not listed above.
 
 ## Note on the data
 
